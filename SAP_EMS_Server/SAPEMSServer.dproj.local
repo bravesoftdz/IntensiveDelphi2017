@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/11/05 21:24:20.000.114,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/05 21:24:20.000.007,=emsserverapi.dcp</Transaction>
+    <Transaction>2017/11/05 21:24:42.000.381,C:\EVENTS\CodeRageXII-US\SAP_EMS_Server\uSAPEMSServer.pas=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/05 21:24:42.000.381,C:\EVENTS\CodeRageXII-US\SAP_EMS_Server\uSAPEMSServer.dfm=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/11/05 21:41:34.000.233,C:\EVENTS\CodeRageXII-US\SAP_EMS_Server\SAPEMSServer.dproj=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/11/06 10:25:47.000.172,=FireDACCommonDriver.dcp</Transaction>
+    <Transaction>2017/11/06 10:25:47.000.166,=FireDAC.dcp</Transaction>
+    <Transaction>2017/11/06 10:25:47.000.176,=FireDACCommon.dcp</Transaction>
+    <Transaction>2017/11/06 10:25:47.000.163,=dbrtl.dcp</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/11/05 12:25:15.000.621,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/05 12:25:44.000.671,C:\EVENTS\CodeRageXII-US\LocalSQL\uMainForm.fmx=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2017/11/05 12:25:44.000.671,C:\EVENTS\CodeRageXII-US\LocalSQL\uMainForm.pas=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/05 12:25:50.000.049,C:\EVENTS\CodeRageXII-US\LocalSQL\LocalSQL.dproj=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/11/05 12:26:02.000.484,=C:\EVENTS\CodeRageXII-US\LocalSQL\Unit1.pas</Transaction>
+    <Transaction>2017/11/05 12:26:07.000.239,C:\EVENTS\CodeRageXII-US\LocalSQL\uMainDM.pas=C:\EVENTS\CodeRageXII-US\LocalSQL\Unit1.pas</Transaction>
+    <Transaction>2017/11/05 12:26:07.000.239,C:\EVENTS\CodeRageXII-US\LocalSQL\uMainDM.dfm=C:\EVENTS\CodeRageXII-US\LocalSQL\Unit1.dfm</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PmacOS iOSSimulator="iPhone5"/>  <NoProfile Android="0022831207"/>
+  </ActiveMobileDevice>
+</BorlandProject>

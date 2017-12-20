@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/11/06 10:28:33.000.604,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/11/06 10:29:06.000.150,C:\EVENTS\CodeRageXII-US\SAP_EMS_Client\uMainForm.pas=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/11/06 10:29:06.000.150,C:\EVENTS\CodeRageXII-US\SAP_EMS_Client\uMainForm.fmx=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit2.fmx</Transaction>
+    <Transaction>2017/11/06 10:29:13.000.518,C:\EVENTS\CodeRageXII-US\SAP_EMS_Client\SAPEMSClient.dproj=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PmacOS iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
